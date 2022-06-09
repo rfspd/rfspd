@@ -5,3 +5,5 @@
 Las plataformas/webs que programo cumplen todos los estándares actuales de programación cumpliendo estrictas medidas de seguridad y están alojadas en centros de datos europeos (Francia, Holanda, Alemania) cumpliendo todos los requisitos del Reglamento General de Protección de Datos.
 
 Durante estos 30 años de carrera profesional he asistido a multitud de cursos e impartido también muchos (maquetación digital, fotografía, programación, etc.). Actualmente también imparto clases a personas mayores de informática y manejo de dispositivos con la principal función de reducir la brecha tecnológica.
+
+Algunos repositorios pondré públicos, pero la mayoría los mantengo en privado (más por copia de seguridad que otra cosa).
